@@ -1,4 +1,4 @@
-# Data-Analysis
+# Blinkit Sales Analysis Dashboard
 Interactive Power BI dashboard analyzing Blinkit sales, outlet performance, product categories, and key business KPIs.
 # 📊 Blinkit Sales Analysis Dashboard | Power BI
 
